@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+StealthMonitor
+</name>
+</assembly>
+<members>
+<member name="T:Indonesia_Anti_Porno_s.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Indonesia_Anti_Porno_s.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Indonesia_Anti_Porno_s.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Indonesia_Anti_Porno_s.ConversionFunctions">
+ <summary>
+ Credits
+ </summary>
+ <remarks>
+ Conversion Functions - Tedd
+ Rounded Rectangle - Tedd
+ Graphite Button - Tedd
+ Graphite Toggle Button - Programming by Tedd, idea from Ubuntu OS
+ Graphite Frame - Tedd
+ Graphite Progress Bar - Tedd
+ Graphite Radio - Tedd
+ Graphite Tab Control - Design by Tedd, OwnerDraw method by xZ3R0xPR0J3CTx (Mentor / Friend)
+ Graphite Theme - Tedd
+ Graphite Trackbar - Tedd, idea from Carbon Theme by AeonHack and GREENEXXX
+ Graphite Seperator - Tedd
+ Graphite ComboBox - Design by Tedd, OwnerDraw method by xZ3R0xPR0J3CTx (Mentor / Friend)
+
+ Contact:
+ Tedd           - HackForums.net Forum  or  Tedd.Zublansky@blackhax.com
+ xZ3R0xPR0J3CTx - HackForums.net Forum
+ AeonHack       - HackForums.net Forum
+ GREENEXXX      - HackForums.net Forum</remarks>
+</member>
+</members>
+</doc>
